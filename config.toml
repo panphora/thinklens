@@ -1,0 +1,9 @@
+baseurl = "http://thinklens.com/"
+languageCode = "en-us"
+title = "Thinklens"
+
+[Params]
+  author = "David Miranda"
+
+[permalinks]
+  post = "/:slug/"

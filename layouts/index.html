@@ -1,0 +1,11 @@
+{{ partial "head.html" . }}
+  <div class="site-header site-wide-container">
+    <img class="logo" src="svgs/logo.svg">
+    <h1 class="site-title">Thinklens</h1>
+  </div>
+  {{ range .Data.Pages }}
+    {{ if eq .Type  "post" }}
+      {{ .Render "list"}}
+    {{ end }}
+  {{ end }}
+{{ partial "foot.html" . }}

@@ -1,0 +1,19 @@
+{{ partial "head.html" . }}
+<div class="site-wide-container">
+  <a href="/" class="return-to-home-link"><svg class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.2 39"><style>.st0{fill:#3543c9}</style><path class="st0" d="M42.2 20.9h-5.4V39h-11V26.7h-9.4V39H5V20.9H0L20.9 0z"/></svg> Return to home page</a>
+</div>
+<div class="article">
+  <div class="article-header-area site-wide-container">
+    <div class="title-label">{{ .Site.Title }} article</div>
+    <h1 class="article-title">{{ .Title }}</h1>
+  </div>
+  <div class="black-strip">
+    <div class="site-wide-container">
+      <div class="article-date">{{ .Date.Format "January 2, 2006" }}</div>
+    </div>
+  </div>
+  <div class="article-content site-wide-container">
+    {{ .Content }}
+  </div>
+</div>
+{{ partial "foot.html" . }}
