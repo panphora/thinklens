@@ -1,6 +1,6 @@
 +++
 date = "2016-08-13"
-title = "Who am I? A guide for dealing with difficult emotions"
+title = "\"Who am I?\" A guide for dealing with difficult emotions"
 postid = 3
 +++
 
