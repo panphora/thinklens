@@ -13,3 +13,4 @@ https://gohugo.io/overview/quickstart/
 3. Deploy to live website
 
 > bash deploy.sh "<my commit msg>"
+
