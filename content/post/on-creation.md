@@ -4,9 +4,15 @@ title = "On Creation"
 postid = 4
 +++
 
-I wish I could have a diagram or mathematical proof that could succinctly show that creative projects take time because they need layers. If you take a photograph or make a photo-realistic drawing of something, that will just have one layer in my view. 
+I wish I had a diagram or mathematical proof to show that creative projects take time because they need layers. 
 
-It has meaning, sure, but it hasn't been mixed with anything imaginary. It hasn't struggled to come to be, not in any real, emotionally-taxing way... not in a way that feels like you're walking down dead ends over and over again with sweat over your brow and a tumultuous, exhausted heart, confused about your whole endeavor and its worthwhileness, just before you actually, finally arrive somewhere. 
+Let me explain what I mean by layers.
+
+If you take a photograph or make a photo-realistic drawing of something, for example, that will just have one layer. 
+
+It has meaning, sure, but it hasn't been mixed with anything imaginary or new. 
+
+It hasn't struggled to come to be, not in a real, emotionally-taxing way... not in a way that feels like you're walking down dead ends over and over again with sweat over your brow and a tumultuous, exhausted heart, confused about your whole endeavor and its worthwhileness, just before you actually, finally arrive somewhere. 
 
 With most great creative projects, you explore and go through a maze of sorts. You know the first idea that you came up with has something to it, that it captures something real and pure, but you need to create these other things around it in order to see the boundaries around your original idea and understand what the idea really means. You need to get at its essense and taste it.
 
