@@ -63,3 +63,7 @@ However, it's worth it.
 It can open you up to an entirely new new world if you're not afraid to reach into the dark and break things that you don't understand yet. 
 
 Only then can you turn around and pull other people through the doorway you've created, finally able to show them something they've never seen before.
+
+--
+
+<p style="color: #888;">Thoughts from working on <a style="color: #888; text-decoration: underline;" href="https://artisfy.com">Artisfy</a></p>
