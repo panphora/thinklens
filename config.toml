@@ -1,6 +1,7 @@
 baseurl = "http://thinklens.com/"
 languageCode = "en-us"
 title = "Thinklens"
+publishDir = "docs"
 
 [Params]
   author = "David Miranda"
